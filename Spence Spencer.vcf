@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Spencer;Spence;;;
+FN:Spence Spencer
+EMAIL;type=INTERNET;type=HOME;type=pref:srspencer@gmail.com
+item1.ADR;type=HOME;type=pref:;;;Beltsville;MD;20705;United States
+END:VCARD
